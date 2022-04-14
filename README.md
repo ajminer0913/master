@@ -1,3 +1,3 @@
 # master
 Testing gradle
-![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+![github-actions-demo.yml](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
