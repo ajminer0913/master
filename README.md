@@ -1,3 +1,3 @@
 # master
 Testing gradle
-![example event parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?event=push)
+![github-actions-demo.yml](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?event=push)
